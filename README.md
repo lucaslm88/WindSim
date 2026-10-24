@@ -28,7 +28,7 @@ Desenhe obstáculos com o mouse e veja o escoamento do ar contornando-os, com tr
 
 ## Executar (Windows)
 
-Baixe o `windsim.exe` na aba **Releases** deste repositório e execute.
+Baixe o `windsim0.1.0-alpha.exe` na aba **Releases** deste repositório e execute.
 
 ## Compilar
 
