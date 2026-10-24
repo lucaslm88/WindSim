@@ -1,0 +1,14 @@
+# Binários e objetos
+*.exe
+*.o
+*.obj
+*.out
+
+# Gerados pelo programa
+screenshot*.png
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
