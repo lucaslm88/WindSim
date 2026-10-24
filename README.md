@@ -41,17 +41,3 @@ gcc src/main.c -o windsim -lraylib -lm
 # Windows (MinGW)
 gcc src/main.c -o windsim.exe -lraylib -lopengl32 -lgdi32 -lwinmm -lm
 ```
-
-## Estrutura
-
-```
-WindSim/
-├── src/
-│   └── main.c
-├── README.md
-└── .gitignore
-```
-
-## Licença
-
-Defina a licença do projeto (ex.: MIT) e adicione um arquivo `LICENSE`.
